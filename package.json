@@ -21,17 +21,17 @@
   ],
   "license": "EUPL-1.0",
   "devDependencies": {
-    "@types/jest": "27.4.1",
-    "@types/react": "17.0.43",
+    "@types/jest": "27.5.2",
+    "@types/react": "17.0.50",
     "husky": "7.0.4",
     "jest": "27.5.1",
-    "jest-junit": "13.0.0",
+    "jest-junit": "13.2.0",
     "jest-sonar-reporter": "2.0.0",
-    "lint-staged": "12.3.7",
-    "prettier": "2.6.1",
+    "lint-staged": "12.5.0",
+    "prettier": "2.7.1",
     "react": "17.0.2",
-    "ts-jest": "27.1.4",
-    "typescript": "4.6.3"
+    "ts-jest": "27.1.5",
+    "typescript": "4.8.4"
   },
   "peerDependencies": {
     "react": "^17.0.2 || ^18.0.0"
@@ -47,7 +47,7 @@
     ]
   },
   "engines": {
-    "node": "16.14.2"
+    "node": "16.17.1"
   },
   "dependencies": {
     "jest-multiple-result-processors": "^0.0.4"
