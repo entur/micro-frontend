@@ -16,5 +16,5 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: 16.20
+          node-version: 24.130
       - run: npm ci && npm run build
